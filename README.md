@@ -8,8 +8,22 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
