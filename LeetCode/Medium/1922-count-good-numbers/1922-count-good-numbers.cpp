@@ -1,11 +1,11 @@
 class Solution {
 public:
-     int  MOD=1e9+7;
+    int  MOD=1e9+7;
     
     long long p(long long a, long long b){
-        if(b==0){
-            return 1;
-        }
+        // if(b==0){
+        //     return 1;
+        // }
 
         long long half=p(a,b/2);
         long long ans=(half*half)%MOD;
