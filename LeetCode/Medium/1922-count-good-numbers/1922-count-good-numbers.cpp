@@ -1,6 +1,6 @@
 class Solution {
 public:
-    const int  MOD=1e9+7;
+     int  MOD=1e9+7;
     
     long long p(long long a, long long b){
         if(b==0){
