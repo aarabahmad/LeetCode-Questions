@@ -23,7 +23,6 @@ class Solution {
             StringBuilder invert=inversion(res);
             res.append(1);
             res.append(invert.reverse());
-            // System.out.println(res);
         }
         return find(n, k, res, index+1);
     }
