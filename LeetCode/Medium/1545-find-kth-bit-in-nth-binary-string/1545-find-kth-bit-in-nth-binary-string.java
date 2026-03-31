@@ -1,4 +1,5 @@
 class Solution {
+
     public char findKthBit(int n, int k) {
         StringBuilder result=find(n, k, new StringBuilder(), 0);
         return result.toString().charAt(k-1);
@@ -26,4 +27,5 @@ class Solution {
         }
         return find(n, k, res, index+1);
     }
+    
 }
