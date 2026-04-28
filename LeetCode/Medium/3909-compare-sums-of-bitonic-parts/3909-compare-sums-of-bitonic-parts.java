@@ -7,7 +7,6 @@ class Solution {
                 break;
             }
         }
-        // System.out.println(peak);
         long incSum=0, decSum=0;
         for(int i=0;i<=peak;i++) {
             incSum+=nums[i];
