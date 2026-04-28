@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,9 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [1922-count-good-numbers](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 <!---LeetCode Topics End-->
