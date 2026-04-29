@@ -12,7 +12,7 @@ class Solution {
         return pairs;
     }
 
-    public int countPairs(int[] nums,int left, int mid, int right) {
+    public int countPairs(int nums[], int left, int mid, int right) {
         int j=mid+1;
         int pairs=0;
         for(int i=left;i<=mid;i++) {
@@ -26,7 +26,7 @@ class Solution {
 
     public void merge(int[] nums, int left, int mid, int right) {
         int i=left, j=mid+1, k=0;
-        int temp[]=new int[right-left+1];
+        int[] temp=new int[right-left+1];
         while(i<=mid && j<=right) {
             if(nums[i]<=nums[j]) {
                 temp[k++]=nums[i++];
@@ -41,8 +41,8 @@ class Solution {
         while(j<=right) {
             temp[k++]=nums[j++];
         }
-        for (int index = 0; index < temp.length; index++) {
-            nums[left + index] = temp[index];
+        for(int index=0;index<temp.length;index++) {
+            nums[index+left]=temp[index];
         }
     }
 
