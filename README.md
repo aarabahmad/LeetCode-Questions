@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -35,6 +36,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
