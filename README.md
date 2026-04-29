@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
