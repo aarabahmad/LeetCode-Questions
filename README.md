@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0035-search-insert-position](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0033-search-in-rotated-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Divide and Conquer
