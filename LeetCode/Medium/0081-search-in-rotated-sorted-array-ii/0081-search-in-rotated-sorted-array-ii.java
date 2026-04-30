@@ -11,8 +11,8 @@ class Solution {
                 end--;
                 continue;
             }
-            if(nums[mid]>=nums[start]) {
-                if(target<nums[mid] && target>=nums[start]) {
+            if(nums[start]<=nums[mid]) {
+                if(target>=nums[start] && target<nums[mid]) {
                     end=mid-1;
                 }
                 else {
