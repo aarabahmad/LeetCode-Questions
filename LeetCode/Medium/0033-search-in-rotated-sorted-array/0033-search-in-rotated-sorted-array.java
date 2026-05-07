@@ -6,7 +6,7 @@ class Solution {
             if(nums[mid]==target) {
                 return mid;
             }
-            else if(nums[start]<=nums[mid]) {
+            if(nums[start]<=nums[mid]) {
                 if(target>=nums[start] && target<nums[mid]) {
                     end=mid-1;
                 }
