@@ -3,8 +3,9 @@ class Solution {
         if((m*k)>bloomDay.length) {
             return -1;
         }
-        int start=1, end=0, res=-1;
+        int start=Integer.MAX_VALUE, end=Integer.MIN_VALUE, res=-1;
         for(int i : bloomDay) {
+            start=Math.min(i, start);
             end=Math.max(i, end);
         }
         while(start<=end) {
