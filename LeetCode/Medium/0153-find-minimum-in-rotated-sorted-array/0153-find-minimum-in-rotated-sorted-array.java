@@ -1,8 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-        if(nums.length==2) {
-            return Math.min(nums[0], nums[1]);
-        }
         int start=0, end=nums.length-1;
         while(start<end) {
             int mid=start+(end-start)/2;
