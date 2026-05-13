@@ -8,7 +8,6 @@ class Solution {
         int res=-1;
         while(start<=end) {
             int mid=start+(end-start)/2;
-            System.out.println(start+" "+mid+" "+end);
             if(canSplit(nums, mid, k)) {
                 res=mid;
                 end=mid-1;
