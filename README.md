@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
