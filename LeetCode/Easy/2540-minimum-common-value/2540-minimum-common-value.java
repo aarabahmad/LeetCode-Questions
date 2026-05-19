@@ -8,8 +8,6 @@ class Solution {
         for(int num : nums2) {
             map2.put(num, map2.getOrDefault(num, 0)+1);
         }
-        System.out.println(map1);
-        System.out.println(map2);
         for(Map.Entry<Integer, Integer> entry : map1.entrySet()) {
             if(map2.containsKey(entry.getKey())) {
                 return entry.getKey();
