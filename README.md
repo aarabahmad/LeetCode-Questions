@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
