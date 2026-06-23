@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -66,6 +67,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
