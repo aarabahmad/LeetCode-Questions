@@ -1,18 +1,18 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<List<Integer>> pascal=new ArrayList<>();
-        for(int i=0;i<34;i++) {
-            List<Integer> row=new ArrayList<>();
-            for(int j=0;j<=i;j++) {
-                if(i+j==i || i+j==2*i) {
-                    row.add(1);
-                }
-                else {
-                    row.add(pascal.get(i-1).get(j)+pascal.get(i-1).get(j-1));
-                }
+        List<Integer> row = new ArrayList<>();
+        row.add(1);
+
+        for (int i = 0; i < rowIndex; i++) {
+            List<Integer> newRow = new ArrayList<>();
+            newRow.add(1);
+            for (int j = 1; j < row.size(); j++) {
+                newRow.add(row.get(j - 1) + row.get(j));
             }
-            pascal.add(row);
+            newRow.add(1);
+            row = newRow;
         }
-        return pascal.get(rowIndex);
+
+        return row;        
     }
 }
