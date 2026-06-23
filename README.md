@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1390-four-divisors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1390-four-divisors/) | Medium |
 | [1922-count-good-numbers](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
