@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0794-valid-tic-tac-toe-state](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0794-valid-tic-tac-toe-state/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1390-four-divisors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1390-four-divisors/) | Medium |
@@ -81,6 +82,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0053-maximum-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +209,12 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
