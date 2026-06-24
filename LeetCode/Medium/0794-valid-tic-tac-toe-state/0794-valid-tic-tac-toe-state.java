@@ -41,7 +41,7 @@ class Solution {
         return false;
     }
 
-    public boolean validTicTacToe(String[] board) {
+    public int[] giveCount(String[] board) {
         int countX=0, countO=0;
         for(String move : board) {
             for(char ch : move.toCharArray()) {
@@ -53,10 +53,15 @@ class Solution {
                 }
             }
         }
+        return new int[]{countX, countO};
+    }
+
+    public boolean validTicTacToe(String[] board) {
+        int countX=giveCount(board)[0];
+        int countO=giveCount(board)[1];
         char[][] moves=makeArray(board);
         boolean xWin=isWinPossible(moves, 'X');
         boolean oWin=isWinPossible(moves, 'O');
-        System.out.println(xWin+" "+oWin);
         if(xWin && oWin) {
             return false;
         }
@@ -72,7 +77,6 @@ class Solution {
         if(oWin && countO<countX) {
             return false;
         }
-
         return true;
     }
 }
