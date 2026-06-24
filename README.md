@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1390-four-divisors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1390-four-divisors/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0075-sort-colors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
