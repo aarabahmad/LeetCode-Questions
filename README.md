@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Backtracking
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0001-two-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
