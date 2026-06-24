@@ -12,8 +12,6 @@ class Solution {
             if(arr[i]-arr[i-1]==minDiff) {
                 list.add(arr[i-1]);
                 list.add(arr[i]);
-            }
-            if(!list.isEmpty()) {
                 diff.add(list);
             }
         }
