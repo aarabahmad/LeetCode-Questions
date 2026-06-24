@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0540-single-element-in-a-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0794-valid-tic-tac-toe-state](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0794-valid-tic-tac-toe-state/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -66,6 +67,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0048-rotate-image](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
+| [0794-valid-tic-tac-toe-state](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0794-valid-tic-tac-toe-state/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
