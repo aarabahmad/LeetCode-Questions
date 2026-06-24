@@ -12,7 +12,6 @@ class Solution {
                 count++;
             }
         }
-        System.out.println(count);
         return count==(right-left+1);
     }
 }
