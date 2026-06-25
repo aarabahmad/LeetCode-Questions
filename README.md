@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1922-count-good-numbers](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+| [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +192,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
