@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -177,6 +178,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 ## Two Pointers
@@ -193,6 +195,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0001-two-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
