@@ -24,12 +24,10 @@ class Solution {
             nums[i]=Math.abs(nums[i]);
         }
         Arrays.sort(nums);
-        System.out.println(Arrays.toString(nums));
         long res=0;
         for(int i=0;i<nums.length;i++) {
             long ub=upperBound(nums, 2*nums[i])-1;
             res+=(ub-i);
-            // System.out.println(ub+" "+res);
         }
         return res;
     }
