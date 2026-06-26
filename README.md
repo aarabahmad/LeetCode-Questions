@@ -238,4 +238,12 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
