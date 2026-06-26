@@ -200,6 +200,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -241,6 +242,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
