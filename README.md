@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Design
