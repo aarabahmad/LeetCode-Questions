@@ -261,4 +261,8 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
