@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
@@ -112,6 +113,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0048-rotate-image](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
@@ -231,6 +233,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
