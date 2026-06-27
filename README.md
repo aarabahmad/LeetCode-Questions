@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
