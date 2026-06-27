@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -114,6 +115,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -225,6 +227,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
