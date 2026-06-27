@@ -1,8 +1,8 @@
 class Solution {
     public boolean isUgly(int n) {
-        if(n<=0) {
-            return false;
-        }
+        // if(n<=0) {
+        //     return false;
+        // }
         while(n%5==0 && n>=5) {
             n/=5;
         }
@@ -12,6 +12,6 @@ class Solution {
         while(n%2==0 && n>=2) {
             n/=2;
         }
-        return n<=1;
+        return n>0 && n<=1;
     }
 }
