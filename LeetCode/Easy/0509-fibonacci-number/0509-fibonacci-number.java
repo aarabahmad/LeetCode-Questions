@@ -1,24 +1,13 @@
 class Solution {
     public int fib(int n) {
-        int first=0, second=1;
         if(n==0) {
-            return first;
+            return 0;
         }
         else if(n==1) {
-            return second;
+            return 1;
         }
         else {
-            int count=1;
-            while(count<=n) {
-                int third=first+second;
-                count++;
-                if(count==n) {
-                    return third;
-                }
-                first=second;
-                second=third;
-            }
+            return fib(n-1)+fib(n-2);
         }
-        return -1;
     }
 }
