@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0069-sqrtx](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
@@ -199,6 +200,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
@@ -208,6 +210,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0001-two-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
