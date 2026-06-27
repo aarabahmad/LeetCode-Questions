@@ -13,10 +13,8 @@ class Solution {
                 int digit=n%10;
                 sum=sum+(digit*digit);
                 n/=10;
-                // System.out.println(sum);
             }
             n=sum;
-            // System.out.println(sum);
         }
         return n==1 || n==7;
     }
