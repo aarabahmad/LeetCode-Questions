@@ -121,6 +121,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1390-four-divisors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1390-four-divisors/) | Medium |
 | [1922-count-good-numbers](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
