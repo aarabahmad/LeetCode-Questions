@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -140,6 +141,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Binary Search
@@ -191,12 +193,14 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 ## Two Pointers
