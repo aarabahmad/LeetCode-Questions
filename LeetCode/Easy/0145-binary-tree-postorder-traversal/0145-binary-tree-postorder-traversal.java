@@ -18,9 +18,6 @@ class Solution {
         Stack<TreeNode> stack=new Stack<>();
         List<Integer> ans=new ArrayList<>();
         TreeNode curr=root;
-        if(curr==null) {
-            return new ArrayList<>();
-        }
         TreeNode lastPrinted=null;
         while(curr!=null || !stack.isEmpty()) {
             if(curr!=null)  {
