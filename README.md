@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,8 +302,14 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
