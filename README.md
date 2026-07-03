@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -73,11 +74,13 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0794-valid-tic-tac-toe-state/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
