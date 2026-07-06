@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0229-majority-element-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -271,6 +273,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -301,6 +304,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
