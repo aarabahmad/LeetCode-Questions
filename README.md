@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
+| [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Matrix
@@ -305,15 +306,18 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
+| [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
