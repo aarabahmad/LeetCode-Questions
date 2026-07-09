@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0118-pascals-triangle](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0279-perfect-squares](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -139,6 +140,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0507-perfect-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1390-four-divisors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1390-four-divisors/) | Medium |
@@ -308,6 +310,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
