@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0229-majority-element-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -313,6 +315,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
