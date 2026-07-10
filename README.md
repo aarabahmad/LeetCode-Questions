@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2140-solving-questions-with-brainpower/) | Medium |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
@@ -112,6 +113,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0746-min-cost-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2140-solving-questions-with-brainpower/) | Medium |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [1109-corporate-flight-bookings](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
