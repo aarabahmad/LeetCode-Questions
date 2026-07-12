@@ -27,7 +27,6 @@ class Solution {
             adj.get(edge[1]).add(edge[0]);
         }
         boolean res=dfs(adj, source, destination);
-        System.out.println(Arrays.toString(visited));
         return res;
     }
 }
