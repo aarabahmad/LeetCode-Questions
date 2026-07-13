@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0685-redundant-connection-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0685-redundant-connection-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -340,5 +342,6 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0684-redundant-connection](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
