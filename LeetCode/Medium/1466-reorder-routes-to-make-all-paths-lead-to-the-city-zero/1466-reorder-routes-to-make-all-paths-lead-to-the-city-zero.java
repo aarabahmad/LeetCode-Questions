@@ -1,15 +1,12 @@
 class Solution {
     public int minReorder(int n, int[][] connections) {
-        List<Set<Integer>> undirected=new ArrayList<>();
-        List<Set<Integer>> directed=new ArrayList<>();
+        List<List<int[]>> adj=new ArrayList<>();
         for(int i=0;i<n;i++) {
-            undirected.add(new HashSet<>());
-            directed.add(new HashSet<>());
+            adj.add(new ArrayList<>());
         }
         for(int[] connection : connections) {
-            undirected.get(connection[0]).add(connection[1]);
-            undirected.get(connection[1]).add(connection[0]);
-            directed.get(connection[0]).add(connection[1]);
+            adj.get(connection[0]).add(new int[]{connection[1], 1});
+            adj.get(connection[1]).add(new int[]{connection[0], 0});
         }
         int res=0;
         boolean[] visited=new boolean[n];
@@ -18,13 +15,13 @@ class Solution {
         visited[0]=true;
         while(!queue.isEmpty()) {
             int node=queue.poll();
-            for(int neighbours : undirected.get(node)) {
-                if(!visited[neighbours] && !directed.get(neighbours).contains(node)) {
-                    res++;
-                }
-                if(!visited[neighbours]) {
-                    visited[neighbours]=true;
-                    queue.offer(neighbours);
+            for(int[] neighbours : adj.get(node)) {
+                int destination=neighbours[0];
+                int needReversal=neighbours[1];
+                if(!visited[destination]) {
+                    res+=needReversal;
+                    visited[destination]=true;
+                    queue.offer(destination);
                 }
             }
         }
