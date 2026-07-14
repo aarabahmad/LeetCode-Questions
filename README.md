@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Depth-First Search
@@ -118,6 +120,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2140-solving-questions-with-brainpower/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 ## Recursion
@@ -169,6 +172,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0229-majority-element-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
@@ -244,6 +248,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Hash Table
@@ -256,6 +261,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0229-majority-element-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2540-minimum-common-value](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
