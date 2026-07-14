@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
@@ -118,6 +119,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
@@ -211,10 +213,12 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
