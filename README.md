@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Depth-First Search
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
