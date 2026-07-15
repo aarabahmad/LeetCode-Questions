@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0039-combination-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2375-construct-smallest-number-from-di-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0410-split-array-largest-sum](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +330,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
