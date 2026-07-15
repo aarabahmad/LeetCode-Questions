@@ -167,6 +167,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
