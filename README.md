@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
@@ -253,6 +254,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -367,4 +369,8 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0785-is-graph-bipartite](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
