@@ -24,7 +24,7 @@ class Solution {
         boolean[] pathVisited = new boolean[n];
             if (!visited[i]) {
                 boolean cycle=dfs(graph, visited, pathVisited, i);
-                System.out.println(i+"->"+cycle);
+                // System.out.println(i+"->"+cycle);
                 if (!cycle) {
                     res.add(i);
                 }
