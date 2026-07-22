@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [0208-implement-trie-prefix-tree](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -270,6 +271,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | [0138-copy-list-with-random-pointer](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -324,6 +326,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0707-design-linked-list](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -380,4 +383,8 @@ This repository contains my solutions to LeetCode problems, written primarily in
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aarab18/LeetCode-Questions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
